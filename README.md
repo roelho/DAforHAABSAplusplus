@@ -3,6 +3,7 @@
 # Set up Environment
 
 The source code is available at https://github.com/ofwallaart/HAABSA create a virtual environment as described.
+  - Make sure to use Python v3.6.2 and requirements.txt of this repository.
   - Download c++ visual studio build tools (https://visualstudio.microsoft.com/downloads/). 
   - You need compatible drivers, Cuda (v9.0) and cuDNN (v6.4) (https://developer.nvidia.com/).
 
