@@ -24,3 +24,9 @@ The source code is available at https://github.com/ofwallaart/HAABSA create a vi
 3. Save the acquired training data and remaining test data
 4. Use getBERTusingColab.py in Google Colab to obtain the BERT word embeddings
 5. Then use prepareBERT.py in the venv to get the desired data for HAABSA++.
+
+# Data
+
+The BERT word embeddings for the performed methods vary between full and remaining test set:
+- Remaining test set: https://drive.google.com/file/d/1_MYcTqX9z6AiuYyqkJmg9qOQSHm8o85e/view?usp=share_link
+- Full test set: https://drive.google.com/file/d/1T3sO7yldYo3NGV8lecCKP4L49jizz91G/view?usp=share_link
