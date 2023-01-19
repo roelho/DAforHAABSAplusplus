@@ -1,0 +1,744 @@
+$T$ is_0 a_0 must_0 !_0 
+green_0 tea_0 cr_0 ##eme_0 br_0 ##ule_0 ##e_0 
+1
+i_0 ca_0 n_0 '_0 t_0 say_0 enough_0 about_0 this_0 $T$ ._0 
+place_0 
+1
+the_0 entire_0 $T$ was_0 extremely_0 acc_0 ##omo_0 ##dating_0 and_0 tended_0 to_0 my_0 every_0 need_0 ._1 
+staff_0 
+1
+i_1 '_1 ve_0 been_0 to_1 this_1 $T$ over_0 a_1 dozen_0 times_0 with_0 no_0 complaints_0 date_0 ._2 
+restaurant_0 
+1
+the_1 $T$ is_1 bell_0 ##iger_0 ##ent_0 to_2 guests_0 that_0 have_0 a_2 complaint_0 ._3 
+owner_0 
+-1
+i_2 was_1 highly_0 disappointed_0 in_0 the_2 $T$ at_0 pagoda_0 ._4 
+food_0 
+-1
+our_0 $T$ was_2 non_0 -_0 existent_0 and_1 after_0 food_1 finally_0 arrived_0 over_1 an_0 hour_0 we_0 ordered_0 ,_0 were_0 not_0 given_0 any_0 water_0 or_0 ut_0 ##ens_0 ##ils_0 ._5 
+waiter_0 
+-1
+i_3 complained_0 to_3 the_3 $T$ ,_1 but_0 he_0 was_3 not_1 even_0 apologetic_0 ._6 
+manager_0 
+-1
+i_4 will_0 never_0 forget_0 the_4 amazing_0 $T$ ,_2 service_0 and_2 am_0 ##bian_0 ##ce_0 experience_0 at_1 this_2 restaurant_1 ._7 
+meal_0 
+1
+i_5 will_1 never_1 forget_1 the_5 amazing_1 meal_1 ,_3 $T$ and_3 am_1 ##bian_1 ##ce_1 experience_1 at_2 this_3 restaurant_2 ._8 
+service_1 
+1
+i_6 will_2 never_2 forget_2 the_6 amazing_2 meal_2 ,_4 service_2 and_4 $T$ experience_2 at_3 this_4 restaurant_3 ._9 
+am_2 ##bian_2 ##ce_2 
+1
+it_0 '_2 s_0 *_0 very_0 reasonably_0 priced_0 ,_5 es_0 ##p_0 for_0 the_7 quality_0 of_0 $T$ ._10 
+food_2 
+1
+it_1 '_3 s_1 *_1 very_1 reasonably_1 priced_1 ,_6 es_1 ##p_1 for_1 the_8 quality_1 of_1 $T$ ._11 
+food_3 
+1
+finally_1 a_3 $T$ that_1 you_0 will_3 remember_0 for_2 long_0 time_0 !_1 
+meal_3 
+1
+i_7 liked_0 the_9 $T$ very_2 much_0 but_1 food_4 was_4 not_2 worth_0 price_0 ._12 
+atmosphere_0 
+1
+i_8 liked_1 the_10 atmosphere_1 very_3 much_1 but_2 $T$ was_5 not_3 worth_1 price_1 ._13 
+food_5 
+-1
+i_9 liked_2 the_11 atmosphere_2 very_4 much_2 but_3 $T$ was_6 not_4 worth_2 price_2 ._14 
+food_6 
+-1
+i_10 may_0 not_5 be_0 a_4 su_0 ##shi_0 guru_0 but_4 can_0 tell_0 you_1 that_2 the_12 $T$ here_0 is_2 just_0 okay_0 and_5 there_0 much_3 else_0 to_4 it_2 ._15 
+food_7 
+-1
+furthermore_0 ,_7 while_0 the_13 $T$ is_3 un_0 ##quest_0 ##ion_0 ##ably_0 fresh_0 rolls_0 tend_0 to_5 be_1 in_1 ##ex_0 ##pl_0 ##ica_0 ##bly_0 bland_0 ._16 
+fish_0 
+1
+furthermore_1 ,_8 while_1 the_14 fish_1 is_4 un_1 ##quest_1 ##ion_1 ##ably_1 fresh_1 $T$ tend_1 to_6 be_2 in_2 ##ex_1 ##pl_1 ##ica_1 ##bly_1 bland_1 ._17 
+rolls_1 
+-1
+on_0 a_5 recent_0 trip_0 ,_9 our_1 $T$ was_7 extremely_1 dismiss_0 ##ive_0 while_2 no_1 less_0 than_0 three_0 staff_1 members_0 waited_0 hand_0 -_1 and_6 foot_0 pair_0 of_2 japanese_0 girls_0 seated_0 nearby_0 ._18 
+waiter_1 
+-1
+on_1 a_6 recent_1 trip_1 ,_10 our_2 waiter_2 was_8 extremely_2 dismiss_1 ##ive_1 while_3 no_2 less_1 than_1 three_1 $T$ waited_1 hand_1 -_2 and_7 foot_1 pair_1 of_3 japanese_1 girls_1 seated_1 nearby_1 ._19 
+staff_2 members_1 
+-1
+they_0 pay_0 such_0 detail_0 to_7 everything_0 from_0 $T$ complex_0 rolls_2 ._20 
+mis_0 ##o_0 soup_0 
+1
+they_1 pay_1 such_1 detail_1 to_8 everything_1 from_1 mis_1 ##o_1 soup_1 complex_1 $T$ ._21 
+rolls_3 
+1
+the_15 $T$ was_9 fresh_2 ##est_0 and_8 most_0 tender_0 i_11 have_1 ever_0 tasted_0 ._22 
+sash_0 ##imi_0 
+1
+their_0 $T$ are_0 all_0 delicious_0 ._23 
+apps_0 
+1
+the_16 only_0 draw_0 ##back_0 is_5 that_3 this_5 $T$ really_0 expensive_0 and_9 portions_0 are_1 on_2 small_0 side_0 ._24 
+place_1 
+-1
+but_5 the_17 $T$ is_6 small_1 and_10 lovely_0 ,_11 service_3 helpful_0 ._25 
+space_0 
+1
+the_18 $T$ even_1 spotted_0 that_4 my_1 table_0 was_10 shaking_0 a_7 stabilized_0 it_3 for_3 me_0 ._26 
+bus_0 boy_0 
+1
+the_19 only_1 problem_0 is_7 you_2 really_1 have_2 to_9 warm_0 up_0 $T$ before_0 it_4 '_4 s_2 edible_0 ,_12 even_2 when_0 order_0 ahead_0 ._27 
+pizza_0 
+-1
+every_1 time_1 `_0 0_0 -_3 sixty_0 ##nine_0 '_5 is_8 called_0 the_20 $T$ buys_0 everyone_0 drinks_0 !_2 
+bartender_0 
+1
+they_2 have_3 a_8 wide_0 variety_0 of_4 $T$ and_11 even_3 list_0 which_0 oceans_0 come_0 from_2 ;_0 atlantic_0 or_1 pacific_0 ._28 
+fish_2 
+1
+my_2 only_2 negative_0 comment_0 is_9 that_5 i_12 wish_0 the_21 $T$ were_1 a_9 little_0 bigger_0 ._29 
+pieces_0 
+-1
+the_22 $T$ is_10 rustic_0 ,_13 traditional_0 japanese_2 ._30 
+decor_0 
+0
+the_23 $T$ is_11 mixed_0 yu_0 ##pp_0 ##ies_0 ,_14 young_0 and_12 old_0 ._31 
+crowd_0 
+0
+the_24 outside_0 patio_0 area_0 has_0 an_1 abbreviated_0 $T$ ._32 
+menu_0 
+0
+we_1 are_2 locals_0 ,_15 and_13 get_0 the_25 feeling_0 only_3 way_0 this_6 $T$ survives_0 with_1 such_2 average_0 food_8 is_12 because_0 most_1 customers_0 probably_0 one_0 -_4 time_2 customer_0 tourists_0 ._33 
+place_2 
+-1
+the_26 $T$ was_11 a_10 peaceful_0 and_14 relaxing_0 break_0 amongst_0 all_1 kids_0 running_0 around_0 in_3 downtown_0 disney_0 ._34 
+am_3 ##bian_3 ##ce_3 
+1
+i_13 appreciate_0 their_1 $T$ too_0 ._35 
+delivery_0 
+1
+i_14 had_0 yu_1 ##mmy_0 $T$ ,_16 sa_0 ##ag_0 pan_0 ##eer_0 sam_0 ##osa_0 ##s_0 na_0 ##an_0 etc_0 ._36 
+lamb_0 ko_0 ##rma_0 
+1
+i_15 had_1 yu_2 ##mmy_1 lamb_1 ko_1 ##rma_1 ,_17 $T$ sam_1 ##osa_1 ##s_1 na_1 ##an_1 etc_1 ._37 
+sa_1 ##ag_1 pan_1 ##eer_1 
+1
+i_16 had_2 yu_3 ##mmy_2 lamb_2 ko_2 ##rma_2 ,_18 sa_2 ##ag_2 pan_2 ##eer_2 $T$ na_2 ##an_2 etc_2 ._38 
+sam_2 ##osa_2 ##s_2 
+1
+i_17 had_3 yu_4 ##mmy_3 lamb_3 ko_3 ##rma_3 ,_19 sa_3 ##ag_3 pan_3 ##eer_3 sam_3 ##osa_3 ##s_3 $T$ etc_3 ._39 
+na_3 ##an_3 
+1
+i_18 should_0 have_4 thought_0 to_10 bring_0 it_5 up_1 but_6 never_3 expected_0 the_27 $T$ be_3 that_6 mild_0 ._40 
+food_9 
+-1
+i_19 do_0 n_1 '_6 t_1 understand_0 how_0 was_12 a_11 stranger_0 to_11 this_7 place_3 for_4 so_0 long_1 ._41 the_28 $T$ ,_20 colorado_0 ##as_0 -_5 everything_2 is_13 delicious_1 
+fa_0 ##jit_0 ##a_0 salad_0 
+1
+i_20 do_1 n_2 '_7 t_2 understand_1 how_1 was_13 a_12 stranger_1 to_12 this_8 place_4 for_5 so_1 long_2 ._42 the_29 fa_1 ##jit_1 ##a_1 salad_1 ,_21 $T$ ##as_1 -_6 everything_3 is_14 delicious_2 
+colorado_1 
+1
+i_21 do_2 n_3 '_8 t_3 understand_2 how_2 was_14 a_13 stranger_2 to_13 this_9 place_5 for_6 so_2 long_3 ._43 the_30 fa_2 ##jit_2 ##a_2 salad_2 ,_22 colorado_2 $T$ -_7 everything_4 is_15 delicious_3 
+##as_2
+1
+i_22 do_3 n_4 '_9 t_4 understand_3 how_3 was_15 a_14 stranger_3 to_14 this_10 $T$ for_7 so_3 long_4 ._44 the_31 fa_3 ##jit_3 ##a_3 salad_3 ,_23 colorado_3 ##as_3 -_8 everything_5 is_16 delicious_4 
+place_6 
+1
+i_23 just_1 found_0 out_0 that_7 you_3 can_1 have_5 the_32 $T$ to_15 yourself_0 on_3 nights_0 and_15 weekends_0 for_8 a_15 private_0 party_0 -_9 ca_1 n_5 '_10 t_5 wait_0 celebrate_0 my_3 next_0 birthday_0 there_1 ._45 
+place_7 
+1
+i_24 am_4 never_4 disappointed_1 with_2 there_2 $T$ ._46 
+food_10 
+1
+$T$ !_3 yu_5 ##m_0 
+lebanese_0 food_11 
+1
+i_25 '_11 ve_1 been_1 to_16 $T$ only_4 once_0 ,_24 but_7 m_0 still_0 reeling_0 from_3 the_33 experience_3 !_4 
+open_0 sesame_0 
+1
+the_34 $T$ is_17 simply_0 un_2 ##for_0 ##get_0 ##table_0 !_5 
+food_12 
+1
+the_35 staff_3 are_3 friendly_0 and_16 $T$ was_16 et_0 ##hic_0 colorful_0 ._47 
+decor_1 
+1
+go_0 to_17 $T$ !_6 
+open_1 sesame_1 
+1
+holy_0 $T$ !_7 
+hum_0 ##mus_0 
+1
+the_36 $T$ is_18 here_1 incredible_0 ,_25 though_0 quality_2 inconsistent_0 during_0 lunch_0 ._48 
+food_13 
+1
+the_37 food_14 is_19 here_2 incredible_1 ,_26 though_1 quality_3 inconsistent_1 during_1 $T$ ._49 
+lunch_1 
+-1
+the_38 $T$ is_20 a_16 bargain_0 for_9 heap_0 of_5 food_15 given_1 ._50 
+open_2 sesame_2 combo_0 plate_0 
+1
+the_39 $T$ is_21 a_17 bargain_1 for_10 heap_1 of_6 food_16 given_2 ._51 
+open_3 sesame_3 combo_1 plate_1 
+1
+the_40 $T$ is_22 to_18 die_0 for_11 ,_27 as_0 lab_0 ##ne_0 (_0 yo_0 ##gur_0 ##t_0 dip_0 )_0 ._52 
+side_1 of_7 potatoes_0 
+1
+the_41 side_2 of_8 potatoes_1 is_23 to_19 die_1 for_12 ,_28 as_1 $T$ ._53 
+lab_1 ##ne_1 (_1 yo_1 ##gur_1 ##t_1 dip_1 )_1 
+1
+the_42 only_5 draw_1 ##back_1 is_24 crowded_0 $T$ and_17 slow_0 service_4 ._54 
+seating_0 
+-1
+the_43 only_6 draw_2 ##back_2 is_25 crowded_1 seating_1 and_18 slow_1 $T$ ._55 
+service_5 
+-1
+however_0 ,_29 this_11 $T$ is_26 a_18 gem_0 and_19 i_26 wo_0 n_6 '_12 t_6 stop_0 going_0 back_0 ._56 
+place_8 
+1
+we_2 did_0 have_6 the_44 same_0 $T$ second_0 time_3 ,_30 so_4 maybe_0 service_6 is_27 spot_0 ##ty_0 and_20 our_3 luck_0 good_0 ._57 
+waiter_3 
+1
+i_27 would_0 go_1 back_1 for_13 the_45 $T$ experience_4 alone_0 ._58 
+wine_0 
+1
+not_6 the_46 $T$ it_6 once_1 was_17 
+place_9 
+-1
+it_7 is_28 sad_0 to_20 see_0 a_19 $T$ that_8 was_18 once_2 `_1 the_47 '_13 meet_0 and_21 eat_0 for_14 bf_0 ##ast_0 or_2 lunch_2 ,_31 now_0 be_4 big_0 don_0 ##t_2 bother_0 ._59 
+place_10 
+-1
+this_12 $T$ really_2 made_0 a_20 marked_0 decline_0 after_1 (_2 and_22 is_29 recurring_0 story_0 )_2 the_48 airing_0 of_9 food_17 television_0 ##s_4 `_2 diner_0 ,_32 drive_0 -_10 ins_0 dive_0 '_14 hosted_0 by_0 guy_0 fi_0 ##eri_0 in_4 which_1 schooner_0 or_3 later_0 was_19 subject_0 ._60 
+establishment_0 
+-1
+perhaps_0 now_1 ,_33 $T$ falls_0 into_0 the_49 `_3 dive_1 '_15 category_0 ._61 
+sc_0 ##oon_0 ##er_0 or_4 later_1 
+-1
+i_28 hope_0 one_1 day_0 $T$ returns_0 to_21 what_0 it_8 once_3 was_20 ._62 
+sc_1 ##oon_1 ##er_1 or_5 later_2 
+-1
+this_13 $T$ is_30 charming_0 and_23 relaxing_1 ._63 
+place_11 
+1
+the_50 $T$ are_4 always_0 friendly_1 and_24 helpful_1 ._64 
+servers_0 behind_0 counter_0
+1
+after_2 12_0 years_0 in_5 seattle_0 $T$ rates_0 as_2 the_51 place_12 we_3 always_1 go_2 back_2 to_22 ._65 
+ray_0 '_16 s_3 
+1
+$T$ was_21 kind_0 of_10 slow_2 ,_34 our_4 waitress_0 took_0 forever_0 to_23 give_0 us_0 check_0 even_4 though_2 it_9 n_7 '_17 t_7 that_9 busy_0 ._66 
+service_7 
+-1
+service_8 was_22 kind_1 of_11 slow_3 ,_35 our_5 $T$ took_1 forever_1 to_24 give_1 us_1 check_1 even_5 though_3 it_10 n_8 '_18 t_8 that_10 busy_1 ._67 
+waitress_1 
+-1
+eggs_0 ,_36 $T$ potatoes_2 fresh_3 fruit_0 and_25 yo_2 ##gur_2 ##t_3 -_11 everything_6 they_3 serve_0 is_31 delicious_5 ._68 
+pancakes_0 
+1
+eggs_1 ,_37 pancakes_1 $T$ fresh_4 fruit_1 and_26 yo_3 ##gur_3 ##t_4 -_12 everything_7 they_4 serve_1 is_32 delicious_6 ._69 
+potatoes_3 
+1
+eggs_2 ,_38 pancakes_2 potatoes_4 $T$ and_27 yo_4 ##gur_4 ##t_5 -_13 everything_8 they_5 serve_2 is_33 delicious_7 ._70 
+fresh_5 fruit_2 
+1
+eggs_3 ,_39 pancakes_3 potatoes_5 fresh_6 fruit_3 and_28 $T$ -_14 everything_9 they_6 serve_3 is_34 delicious_8 ._71 
+yo_5 ##gur_5 ##t_6 
+1
+plus_0 ,_40 i_29 am_5 allergic_0 to_25 rice_0 and_29 the_52 $T$ was_23 un_3 ##bel_0 ##ie_0 ##va_0 ##bly_2 acc_1 ##omo_1 ##dating_1 -_15 did_1 n_9 '_19 t_9 even_6 bat_0 an_2 eye_0 !_8 
+waits_0 ##taff_0 
+1
+un_4 ##beat_0 ##able_0 $T$ !_9 
+su_1 ##shi_1 
+1
+melt_0 in_6 your_0 mouth_0 $T$ and_30 sash_1 ##mi_0 ,_41 very_5 ta_0 ##sty_0 rolls_4 too_1 ._72 
+ni_0 ##giri_0 
+1
+melt_1 in_7 your_1 mouth_1 ni_1 ##giri_1 and_31 $T$ ,_42 very_6 ta_1 ##sty_1 rolls_5 too_2 ._73 
+sash_2 ##mi_1 
+1
+be_5 sure_0 to_26 try_0 the_53 $T$ ._74 
+oyster_0 roll_0 
+1
+a_21 cozy_0 $T$ for_15 2_0 
+spot_1 
+1
+i_30 ca_2 n_10 '_20 t_10 believe_0 $T$ has_1 been_2 around_1 for_16 over_2 25_0 years_1 ,_43 amazing_3 ._75 
+murphy_0 s_4
+1
+$T$ at_4 murphy_1 '_21 s_5 is_35 to_27 die_2 for_17 ,_44 my_4 specialty_0 ._76 egg_0 white_0 om_0 ##ele_0 ##t_7 the_54 food_18 always_2 freshly_0 prepared_0 
+br_1 ##un_0 ##ch_0 
+1
+br_2 ##un_1 ##ch_1 at_5 murphy_2 '_22 s_6 is_36 to_28 die_3 for_18 ,_45 my_5 specialty_1 ._77 egg_1 white_1 om_1 ##ele_1 ##t_8 the_55 $T$ always_3 freshly_1 prepared_1 
+food_19 
+1
+br_3 ##un_2 ##ch_2 at_6 murphy_3 '_23 s_7 is_37 to_29 die_4 for_19 ,_46 my_6 specialty_2 ._78 $T$ the_56 food_20 always_4 freshly_2 prepared_2 
+egg_2 white_2 om_2 ##ele_2 ##t_9 
+1
+save_0 room_0 for_20 sc_2 ##rum_0 ##pt_0 ##ious_0 $T$ ._79 
+dessert_0 ##s_5 
+1
+the_57 restaurant_4 offers_0 an_3 extensive_0 $T$ and_32 am_6 ##bian_4 ##ce_4 you_4 wo_1 n_11 '_24 t_11 forget_3 !_10 
+wine_1 list_1 
+1
+the_58 restaurant_5 offers_1 an_4 extensive_1 wine_2 list_2 and_33 $T$ you_5 wo_2 n_12 '_25 t_12 forget_4 !_11 
+am_7 ##bian_5 ##ce_5 
+1
+the_59 $T$ have_7 been_3 at_7 restaurant_6 for_21 years_2 and_34 cook_0 family_0 recipes_0 ._80 
+cooks_0 
+1
+can_2 get_1 busy_2 on_4 fridays_0 for_22 a_22 table_1 but_8 once_4 seated_2 ,_47 the_60 $T$ is_38 so_5 efficient_0 you_6 be_6 in_8 and_35 out_1 of_12 there_3 quickly_0 ._81 
+service_9 
+1
+the_61 $T$ was_24 just_2 okay_1 ._82 
+atmosphere_3 
+0
+$T$ was_25 limited_0 ,_48 but_9 the_62 food_21 made_1 up_2 for_23 it_11 ._83 
+space_1 
+-1
+space_2 was_26 limited_1 ,_49 but_10 the_63 $T$ made_2 up_3 for_24 it_12 ._84 
+food_22 
+1
+well_0 i_31 guess_0 it_13 '_26 s_8 hard_0 to_30 be_7 seated_3 when_1 one_2 is_39 invisible_0 the_64 $T$ ._85 
+staff_4 
+-1
+we_4 stood_0 there_4 for_25 10_0 minutes_0 while_4 $T$ walked_0 back_3 and_36 forth_0 ignoring_0 us_2 ._86 
+employees_0 
+-1
+finally_2 ,_50 my_7 wife_0 stood_1 face_0 to_31 in_9 front_0 of_13 one_3 the_65 $T$ and_37 she_0 asked_0 `_4 are_5 you_7 waiting_0 for_26 a_23 table_2 ?_0 '_27 
+staff_5 
+-1
+the_66 $T$ i_32 ordered_1 had_4 so_6 much_4 lemon_0 could_0 n_13 '_28 t_13 eat_1 it_14 ._87 
+caesar_0 salad_4 
+-1
+this_14 is_40 one_4 of_14 my_8 top_0 lunch_3 spots_0 ,_51 huge_0 $T$ fast_0 service_10 and_38 amazing_4 margarita_0 ##s_6 !_12 
+portions_1 
+1
+this_15 is_41 one_5 of_15 my_9 top_1 lunch_4 spots_1 ,_52 huge_1 portions_2 fast_1 $T$ and_39 amazing_5 margarita_1 ##s_7 !_13 
+service_11 
+1
+this_16 is_42 one_6 of_16 my_10 top_2 lunch_5 spots_2 ,_53 huge_2 portions_3 fast_2 service_12 and_40 amazing_6 $T$ !_14 
+margarita_2 ##s_8 
+1
+check_2 out_2 the_67 $T$ ,_54 very_7 colorful_1 !_15 
+art_0 on_5 walls_0
+1
+plenty_0 of_17 $T$ ,_55 trust_0 me_1 ._88 
+food_23 
+1
+fresh_7 $T$ and_41 super_0 ta_2 ##sty_2 ._89 
+ing_0 ##red_0 ##ian_0 ##ts_0 
+1
+this_17 $T$ is_43 un_5 ##bel_1 ##ie_1 ##va_1 ##bly_3 over_3 -_16 rated_0 ._90 
+place_13 
+-1
+if_0 i_33 want_0 to_32 stand_0 in_10 line_0 on_6 sunday_0 for_27 an_5 hour_1 get_2 average_1 $T$ ,_56 then_0 would_1 put_0 murphy_4 '_29 s_9 at_8 the_68 top_3 of_18 list_3 ._91 
+br_4 ##un_3 ##ch_3 food_24 
+0
+the_69 $T$ here_3 is_44 slightly_0 above_0 average_2 that_11 not_7 worth_3 s_10 ##not_0 ##ty_1 attitude_0 you_8 receive_0 ._92 
+regular_0 menu_1 
+0
+there_5 is_45 only_7 one_7 $T$ on_7 the_70 east_0 coast_0 that_12 has_2 it_15 all_2 ,_57 plus_1 a_24 lot_0 more_0 ._93 
+place_14 
+1
+i_34 know_0 many_0 people_0 have_8 their_2 favorite_0 types_0 of_19 $T$ and_42 places_0 ,_58 but_11 mi_0 ##op_0 ##ost_0 ##o_2 '_30 s_11 lacks_0 quality_4 good_1 taste_0 ._94 
+pizza_1 
+-1
+to_33 be_8 honest_0 ,_59 i_35 '_31 ve_2 had_5 better_0 frozen_0 $T$ ._95 
+pizza_2 
+-1
+i_36 was_27 frankly_0 shocked_0 when_2 read_0 the_71 bad_0 reviews_0 -_17 this_18 $T$ is_46 fantastic_0 ;_1 it_16 has_3 not_8 let_0 us_3 down_0 in_11 any_1 way_1 ,_60 and_43 we_5 '_32 ve_3 eaten_0 here_4 more_1 than_2 10_1 times_1 ._96 
+place_15 
+1
+the_72 only_8 problem_1 would_2 be_9 $T$ ,_61 but_12 we_6 usually_0 just_3 have_9 a_25 drink_0 in_12 front_1 while_5 $_0 t_14 ing_1 ._97 
+wait_1 
+0
+$T$ plus_2 
+seafood_0 
+1
+$T$ was_28 superb_0 ._98 
+caesar_1 salad_5 
+1
+leave_0 room_1 for_28 $T$ ._99 
+dessert_1 
+1
+we_7 had_6 a_26 very_8 hard_1 time_4 getting_0 the_73 $T$ '_33 attention_0 and_44 finally_3 to_34 get_3 up_4 go_3 inside_0 speak_0 manager_1 ._100 
+waitress_2 
+-1
+as_3 it_17 turns_0 out_3 the_74 $T$ was_29 seated_4 right_0 next_1 to_35 us_4 and_45 when_3 he_1 came_0 over_4 check_3 on_8 our_6 problems_0 very_9 dismiss_2 ##ive_2 offered_0 a_27 token_0 20_0 %_0 discount_0 bill_0 ._101 
+owner_1 
+-1
+avoid_0 the_75 $T$ 
+place_16 
+-1
+when_4 i_37 got_0 there_6 sat_0 up_5 stairs_0 where_0 the_76 $T$ was_30 cozy_1 &_0 service_13 horrible_0 !_16 
+atmosphere_4 
+1
+i_38 waited_2 for_29 10_2 -_18 15_0 minutes_1 $T$ ordered_2 a_28 beer_0 &_1 was_31 never_5 served_0 again_0 ._102 
+service_14 
+-1
+i_39 went_0 home_0 &_2 looked_0 them_0 up_6 online_0 again_1 where_1 discovered_0 there_7 is_47 a_29 link_0 for_30 give_2 away_0 that_13 does_0 n_14 '_34 t_15 work_0 so_7 email_0 ##ed_0 the_77 $T$ about_1 non_1 existent_1 service_15 dec_0 ##eptive_0 ._103 
+restaurant_7 
+-1
+after_3 sitting_0 at_9 the_78 bar_0 for_31 over_5 20_1 minutes_2 $T$ had_7 made_3 only_9 2_1 drinks_1 &_3 kept_0 telling_0 us_5 she_1 '_35 d_0 be_10 right_1 with_3 ._104 
+keep_0
+-1
+we_8 left_0 without_0 ever_1 getting_1 $T$ ._105 
+service_16 
+-1
+that_14 ##s_9 a_30 big_1 statement_0 considering_0 i_40 '_36 ve_4 been_4 pulling_0 crab_0 traps_0 and_46 making_0 the_79 $T$ myself_0 since_0 was_32 about_2 seven_0 -_19 but_13 something_0 these_0 little_1 devils_0 gets_0 better_1 every_2 time_5 ._106 
+cakes_0 
+1
+if_1 you_9 can_3 ,_62 come_1 to_36 this_19 $T$ by_1 boat_0 and_47 make_0 it_18 a_31 whole_0 evening_0 ._107 
+place_17 
+1
+great_0 $T$ ,_63 poor_0 service_17 
+pizza_3 
+1
+great_1 pizza_4 ,_64 poor_1 $T$ 
+service_18 
+-1
+prefer_0 to_37 order_1 it_19 and_48 pick_0 up_7 though_4 because_1 i_41 do_4 n_15 '_37 t_16 like_0 the_80 $T$ ,_65 one_8 young_1 woman_0 in_13 particular_0 ._108 
+servers_1 
+-1
+prefer_1 to_38 order_2 it_20 and_49 pick_1 up_8 though_5 because_2 i_42 do_5 n_16 '_38 t_17 like_1 the_81 servers_2 ,_66 one_9 $T$ in_14 particular_1 ._109 
+young_2 woman_1 
+-1
+management_0 should_1 really_3 take_0 notice_0 and_50 train_0 their_3 $T$ teach_0 them_1 some_0 proper_0 manners_0 ._110 
+waits_1 ##taff_1 
+-1
+$T$ should_2 really_4 take_1 notice_1 and_51 train_1 their_4 waits_2 ##taff_2 teach_1 them_2 some_1 proper_1 manners_1 ._111 
+management_1 
+-1
+many_1 people_1 talk_0 about_3 the_82 great_2 $T$ and_52 poor_2 service_19 ,_67 so_8 it_21 ca_3 n_17 '_39 t_18 just_4 be_11 ran_0 ##ting_0 ##s_10 of_20 a_32 few_0 dissatisfied_0 customers_1 ._112 
+pizza_5 
+1
+many_2 people_2 talk_1 about_4 the_83 great_3 pizza_6 and_53 poor_3 $T$ ,_68 so_9 it_22 ca_4 n_18 '_40 t_19 just_5 be_12 ran_1 ##ting_1 ##s_11 of_21 a_33 few_1 dissatisfied_1 customers_2 ._113 
+service_20 
+-1
+this_20 place_18 is_48 famous_0 for_32 their_5 $T$ ._114 
+breakfast_0 
+1
+their_6 $T$ is_49 addict_0 ##ing_0 ._115 
+crab_1 eggs_4 benedict_0 
+1
+all_3 their_7 $T$ are_6 a_34 hit_0 ,_69 and_54 they_7 serve_4 mi_1 ##mos_0 ##as_4 ._116 
+menu_2 items_0 
+1
+the_84 $T$ were_2 so_10 fresh_8 and_55 ta_3 ##sty_3 ._117 
+bro_0 ##coll_0 ##is_0 
+1
+i_43 would_3 normally_0 not_9 finish_0 the_85 bro_1 ##coll_1 ##i_0 when_5 order_3 these_1 kinds_0 of_22 food_25 but_14 for_33 first_0 time_6 ,_70 every_3 piece_0 was_33 as_4 event_0 ##ful_0 one_10 ._118 $T$ and_56 pr_0 ##aw_0 ##ns_0 so_11 fresh_9 nicely_0 cooked_0 
+sc_3 ##all_0 ##ops_0 
+1
+i_44 would_4 normally_1 not_10 finish_1 the_86 bro_2 ##coll_2 ##i_1 when_6 order_4 these_2 kinds_1 of_23 food_26 but_15 for_34 first_1 time_7 ,_71 every_4 piece_1 was_34 as_5 event_1 ##ful_1 one_11 ._119 sc_4 ##all_1 ##ops_1 and_57 $T$ so_12 fresh_10 nicely_1 cooked_1 
+pr_1 ##aw_1 ##ns_1 
+1
+i_45 would_5 normally_2 not_11 finish_2 the_87 $T$ when_7 order_5 these_3 kinds_2 of_24 food_27 but_16 for_35 first_2 time_8 ,_72 every_5 piece_2 was_35 as_6 event_2 ##ful_2 one_12 ._120 sc_5 ##all_2 ##ops_2 and_58 pr_2 ##aw_2 ##ns_2 so_13 fresh_11 nicely_2 cooked_2 
+bro_3 ##coll_3 ##i_2 
+1
+for_36 desert_0 we_9 had_8 the_88 $T$ ._121 oh_0 la_0 yu_6 ##mmy_4 !_17 
+mango_0 ginger_0 cr_1 ##eme_1 br_5 ##ule_1 ##e_1 
+1
+we_10 are_7 for_37 sure_1 coming_0 back_4 to_39 this_21 $T$ ._122 
+restaurant_8 
+1
+chin_0 ##tz_0 ##y_0 $T$ 
+portions_4 
+-1
+i_46 '_41 m_1 astonished_0 that_15 this_22 $T$ is_50 categorized_0 as_7 $_1 rather_0 than_3 ._123 
+restaurant_9 
+-1
+terrible_0 $T$ ,_73 food_28 ok_0 price_3 ##y_1 
+service_21 
+-1
+terrible_1 service_22 ,_74 $T$ ok_1 price_4 ##y_2 
+food_29 
+0
+in_15 other_0 words_0 ,_75 if_2 they_8 are_8 n_19 '_42 t_20 making_1 $_2 off_0 of_25 you_10 then_1 do_6 rate_0 high_0 on_9 their_8 scale_0 ._124 $T$ 
+service_23 
+-1
+$T$ wise_0 ,_76 its_0 ok_2 but_17 a_35 bit_0 price_5 ##y_3 for_38 what_1 you_11 get_4 considering_1 the_89 restaurant_10 is_51 n_20 '_43 t_21 fancy_0 place_19 ._125 
+food_30 
+0
+food_31 wise_1 ,_77 its_1 ok_3 but_18 a_36 bit_1 price_6 ##y_4 for_39 what_2 you_12 get_5 considering_2 the_90 $T$ is_52 n_21 '_44 t_22 fancy_1 place_20 ._126 
+restaurant_11 
+-1
+food_32 wise_2 ,_78 its_2 ok_4 but_19 a_37 bit_2 price_7 ##y_5 for_40 what_3 you_13 get_6 considering_3 the_91 $T$ is_53 n_22 '_45 t_23 fancy_2 place_21 ._127 
+restaurant_12 
+0
+if_3 i_47 needed_0 to_40 name_0 some_2 they_9 would_6 include_0 the_92 $T$ beach_0 or_6 golden_0 gate_0 park_0 ._128 
+location_0 
+1
+another_0 plus_3 is_54 the_93 open_4 $T$ of_26 restaurant_13 with_4 glass_0 walls_1 on_10 all_4 sides_0 ._129 
+feel_0 
+1
+another_1 plus_4 is_55 the_94 open_5 feel_1 of_27 restaurant_14 with_5 $T$ on_11 all_5 sides_1 ._130 
+glass_1 walls_2 
+1
+$T$ gets_1 better_2 each_0 time_9 i_48 have_10 it_23 ._131 
+green_1 tea_1 cr_2 ##eme_2 br_6 ##ule_2 ##e_2 
+1
+it_24 is_56 n_23 '_46 t_24 the_95 cheap_0 ##est_1 $T$ but_20 has_4 been_5 worth_4 every_6 time_10 ._132 
+su_2 ##shi_2 
+0
+it_25 is_57 n_24 '_47 t_25 the_96 cheap_1 ##est_2 $T$ but_21 has_5 been_6 worth_5 every_7 time_11 ._133 
+su_3 ##shi_3 
+1
+while_6 this_23 diner_1 had_9 reasonably_2 good_2 $T$ ,_79 the_97 restaurant_15 staff_6 seemed_0 completely_0 indifferent_0 to_41 our_7 presence_0 and_59 attitude_1 was_36 reflected_0 in_16 lack_0 of_28 service_24 ._134 
+food_33 
+1
+while_7 this_24 diner_2 had_10 reasonably_3 good_3 food_34 ,_80 the_98 $T$ seemed_1 completely_1 indifferent_1 to_42 our_8 presence_1 and_60 attitude_2 was_37 reflected_1 in_17 lack_1 of_29 service_25 ._135 
+restaurant_16 staff_7 
+-1
+after_4 one_13 member_0 of_30 our_9 party_1 had_11 been_7 bumped_0 repeatedly_0 by_2 a_38 $T$ ,_81 polite_0 request_0 that_16 he_2 not_12 be_13 sent_0 the_99 into_1 an_6 abusive_0 ran_2 ##t_10 ._136 
+waitress_3 
+-1
+the_100 $T$ continually_0 interrupted_0 with_6 `_5 is_58 there_8 anything_0 else_1 i_49 can_4 do_7 for_41 you_14 ?_1 ,_82 a_39 strange_0 comment_1 because_3 she_2 had_12 hardly_0 listened_0 let_1 alone_1 responded_0 to_43 our_10 expression_0 of_31 disappointment_0 at_10 experience_5 ._137 
+manager_2 
+-1
+you_15 are_9 with_7 a_40 hot_0 date_1 and_61 he_3 /_0 she_3 has_6 an_7 urge_0 for_42 $T$ ._138 then_2 this_25 might_0 be_14 the_101 place_22 
+su_4 ##shi_4 
+1
+$T$ here_5 !_18 
+dung_0 ##enes_0 ##s_12 crabs_0 
+1
+ray_1 '_48 s_12 is_59 the_102 place_23 to_44 go_4 for_43 high_1 quality_5 $T$ ._139 
+seafood_1 dinners_0 
+1
+i_50 ended_0 the_103 meal_4 with_8 unusual_0 $T$ ._140 yu_7 ##mmy_5 !_19 
+dessert_2 of_32 a_41 port_0 and_62 chocolate_0 tasting_0 
+1
+and_63 the_104 $T$ was_38 simply_1 spend_0 ##id_0 -_20 quite_0 a_42 delight_0 ._141 
+service_26 
+1
+the_105 $T$ is_60 great_4 ,_83 no_3 night_0 better_3 or_7 worse_0 bar_1 tender_1 ##s_13 are_10 generous_0 with_9 pouring_0 and_64 light_0 ##hearted_0 atmosphere_5 will_4 lifts_0 you_16 spirits_0 ._142 
+music_0 
+1
+the_106 music_1 is_61 great_5 ,_84 no_4 night_1 better_4 or_8 worse_1 $T$ are_11 generous_1 with_10 pouring_1 and_65 light_1 ##hearted_1 atmosphere_6 will_5 lifts_1 you_17 spirits_1 ._143 
+bar_2 tender_2 ##s_14 
+1
+the_107 music_2 is_62 great_6 ,_85 no_5 night_2 better_5 or_9 worse_2 bar_3 tender_3 ##s_15 are_12 generous_2 with_11 pouring_2 and_66 light_2 ##hearted_2 $T$ will_6 lifts_2 you_18 spirits_2 ._144 
+atmosphere_7 
+1
+good_4 $T$ ,_86 great_7 service_27 average_3 prices_0 (_3 for_44 the_108 strip_0 )_3 
+food_35 
+1
+i_51 decided_0 to_45 eat_2 at_11 stack_0 because_4 of_33 their_9 $T$ ._145 
+price_8 fixed_0 pre_0 -_21 show_0 dinner_0 
+0
+the_109 $T$ playing_0 was_39 very_10 hip_0 ,_87 20_2 -_22 30_0 something_1 pop_0 but_22 sub_0 ##wo_0 ##of_0 ##er_2 to_46 sound_0 system_0 located_0 under_0 my_11 seat_0 which_2 became_0 annoying_0 midway_0 through_0 dinner_1 ._146 
+music_3 
+1
+the_110 music_4 playing_1 was_40 very_11 hip_1 ,_88 20_3 -_23 30_1 something_2 pop_1 but_23 $T$ located_1 under_1 my_12 seat_1 which_3 became_1 annoying_1 midway_1 through_1 dinner_2 ._147 
+sub_1 ##wo_1 ##of_1 ##er_3 to_47 sound_1 system_1
+-1
+i_52 got_1 the_111 $T$ it_26 was_41 alright_0 ._148 
+shell_0 ##fish_0 and_67 shrimp_0 app_0 ##eti_0 ##zer_0 
+0
+it_27 was_42 n_25 '_49 t_26 the_112 fresh_12 ##est_3 $T$ ever_2 ,_89 but_24 taste_1 and_68 presentation_0 ok_5 ._149 
+seafood_2 
+0
+it_28 was_43 n_26 '_50 t_27 the_113 fresh_13 ##est_4 $T$ ever_3 ,_90 but_25 taste_2 and_69 presentation_1 ok_6 ._150 
+seafood_3 
+0
+it_29 ?_2 s_13 served_1 with_12 either_0 a_43 $T$ or_10 red_0 wine_3 reduction_0 ,_91 though_6 both_0 were_3 ind_0 ##ist_0 ##ing_1 ##uis_0 ##hab_0 ##le_0 in_18 taste_3 ._151 
+pepper_0 ##cor_0 ##n_0 sauce_0 
+0
+it_30 ?_3 s_14 served_2 with_13 either_1 a_44 pepper_1 ##cor_1 ##n_1 sauce_1 or_11 $T$ ,_92 though_7 both_1 were_4 ind_1 ##ist_1 ##ing_2 ##uis_1 ##hab_1 ##le_1 in_19 taste_4 ._152 
+red_1 wine_4 reduction_1 
+0
+though_8 ,_93 one_14 thing_0 i_53 realized_0 later_3 on_12 was_44 that_17 the_114 restaurant_17 either_2 used_0 ms_0 ##g_0 or_12 a_45 meat_0 tender_4 ##izer_0 $T$ ._153 
+steak_0 
+-1
+but_26 the_115 $T$ were_5 extremely_3 at_12 ##ten_0 ##tive_0 and_70 very_12 friendly_2 ._154 
+servers_3 
+1
+overall_0 ,_94 i_54 would_7 go_5 back_5 and_71 eat_3 at_13 the_116 $T$ again_2 ._155 
+restaurant_18 
+1
+the_117 $T$ was_45 a_46 bit_3 un_6 ##fr_0 ##ien_0 ##dly_0 and_72 feel_2 of_34 restaurant_19 crowded_2 ._156 
+waiter_4 
+-1
+the_118 waiter_5 was_46 a_47 bit_4 un_7 ##fr_1 ##ien_1 ##dly_1 and_73 $T$ of_35 restaurant_20 crowded_3 ._157 
+feel_3 
+-1
+also_0 ,_95 there_9 was_47 only_10 one_15 $_3 t_28 -_24 probably_1 need_1 more_2 for_45 such_3 big_2 crowds_0 ._158 $T$ 
+bathroom_0 stall_0 
+-1
+for_46 the_119 amount_0 of_36 $T$ we_11 got_2 prices_1 should_3 have_11 been_8 lower_0 ._159 
+food_36 
+-1
+for_47 the_120 amount_1 of_37 $T$ we_12 got_3 prices_2 should_4 have_12 been_9 lower_1 ._160 
+food_37 
+-1
+my_13 favor_0 ##tie_0 $T$ in_20 seattle_1 
+pizza_7 joint_0 
+1
+i_55 '_51 ve_5 always_5 found_1 the_121 $T$ and_74 ,_96 if_4 you_19 sit_0 at_14 bar_4 cooks_1 very_13 friendly_3 ._161 
+wait_2 staff_8 
+1
+i_56 '_52 ve_6 always_6 found_2 the_122 wait_3 staff_9 and_75 ,_97 if_5 you_20 sit_1 at_15 bar_5 $T$ very_14 friendly_4 ._162 
+cooks_2 
+1
+we_13 re_0 can_5 t_29 say_1 enough_1 about_5 their_10 delicious_9 go_6 ##ur_0 ##met_0 !_20 
+pizza_8 s_15
+1
+you_21 won_0 t_30 be_15 disappointed_2 by_3 their_11 $T$ ._163 
+menu_3 
+1
+the_123 $T$ are_13 light_3 and_76 sc_6 ##rum_1 ##pt_1 ##ious_1 ._164 
+pizza_9 s_16
+1
+try_1 the_124 $T$ !_21 
+pizza_10 en_0 ##sal_0 ##ata_0 
+1
+the_125 $T$ are_14 not_13 huge_3 and_77 crust_0 is_63 think_0 ##ee_0 ##p_2 that_18 in_21 mind_0 when_8 you_22 re_1 ordering_0 ._165 
+pizza_11 s_17
+0
+the_126 pizza_12 s_18 are_15 not_14 huge_4 and_78 $T$ is_64 think_1 ##ee_1 ##p_3 that_19 in_22 mind_1 when_9 you_23 re_2 ordering_1 ._166 
+crust_1 
+0
+the_127 $T$ is_65 sin_0 ##ful_3 ._167 
+food_38 
+1
+the_128 specialty_3 here_6 is_66 decade_0 ##nt_0 $T$ ,_98 but_27 i_57 '_53 ve_7 been_10 back_6 now_2 four_0 times_2 and_79 wow_0 ##ed_1 every_8 time_12 ._168 
+pancakes_4 
+1
+nothing_0 on_13 the_129 $T$ is_67 less_2 than_4 amazing_7 ._169 
+menu_4 
+1
+i_58 have_13 been_11 here_7 ,_99 spent_0 tons_0 of_38 money_0 on_14 a_48 $T$ and_80 it_31 was_48 major_0 di_0 ##ssa_0 ##pp_1 ##oint_0 ##ment_0 ._170 
+chef_0 special_0 dinner_3 
+-1
+i_59 have_14 been_12 here_8 ,_100 spent_1 tons_1 of_39 money_1 on_15 a_49 $T$ and_81 it_32 was_49 major_1 di_1 ##ssa_1 ##pp_2 ##oint_1 ##ment_1 ._171 
+chef_1 special_1 dinner_4 
+-1
+fancy_3 pieces_1 of_40 exotic_0 fish_3 on_16 a_50 $_4 100_0 dollar_0 $T$ and_82 not_15 one_16 was_50 eat_4 ##able_1 ._172 
+plate_2 
+-1
+fancy_4 pieces_2 of_41 $T$ on_17 a_51 $_5 100_1 dollar_1 plate_3 and_83 not_16 one_17 was_51 eat_5 ##able_2 ._173 
+exotic_1 fish_4 
+-1
+fancy_5 pieces_3 of_42 $T$ on_18 a_52 $_6 100_2 dollar_2 plate_4 and_84 not_17 one_18 was_52 eat_6 ##able_3 ._174 
+exotic_2 fish_5 
+-1
+our_11 $T$ was_53 very_15 professional_0 and_85 friendly_5 ._175 
+server_0 
+1
+to_48 the_130 owners_0 of_43 $T$ ._176 bravo_0 i_60 ca_5 n_27 '_54 t_31 wait_4 come_2 back_7 din_0 ##e_3 at_16 your_2 restaurant_21 !_22 
+open_6 sesame_4 
+1
+it_33 '_55 s_19 a_53 tiny_0 $T$ so_14 if_6 you_24 get_7 there_10 before_1 8_0 ##pm_0 on_19 weekend_0 (_4 th_0 ##urs_0 ?_4 sun_0 )_4 will_7 find_0 easier_0 to_49 table_3 or_13 seat_2 at_17 the_131 su_5 ##shi_5 bar_6 ._177 
+place_24 
+0
+everything_10 ,_101 and_86 i_61 mean_0 on_20 the_132 $T$ is_68 del_0 ##ect_0 ##able_4 ._178 
+menu_5 
+1
+big_3 thick_0 $T$ 
+pepper_2 ##oni_0 
+1
+the_133 $T$ cut_0 real_0 thick_1 -_25 yu_8 ##m_1 ._179 
+pepper_3 ##oni_1 '_56 s_20 
+1
+the_134 $T$ itself_0 is_69 not_18 exactly_0 best_0 i_62 '_57 ve_8 had_13 ever_4 ,_102 but_28 still_1 pretty_0 good_5 ._180 
+pizza_13 
+1
+sit_2 in_23 the_135 $T$ 
+balcony_0 
+1
+fair_0 $T$ ._181 
+menu_6 selection_0 
+0
+the_136 app_1 ##eti_1 ##zer_1 was_54 interesting_0 ,_103 but_29 $T$ very_16 sa_4 ##vor_0 ##y_6 and_87 delicious_10 ._182 
+cr_3 ##eme_3 br_7 ##ule_3 ##e_4 
+1
+$T$ was_55 modern_0 ._183 
+indoor_0 am_8 ##bie_0 ##nce_0 
+1
+although_0 the_137 $T$ could_1 be_16 improved_0 considering_4 money_2 you_25 put_1 in_24 ._184 
+service_28 
+-1
+our_12 drinks_2 kept_1 coming_1 but_30 $T$ came_1 by_4 a_54 couple_0 times_3 ._185 
+server_1 
+-1
+late_0 night_3 din_1 ##ning_0 with_14 ex_0 ##ept_0 ##ional_0 $T$ ._186 
+food_39 
+1
+i_63 have_15 a_55 but_31 here_9 -_26 there_11 was_56 bathroom_1 attendant_0 in_25 the_138 $T$ which_4 odd_0 ._187 
+restroom_0 
+-1
+the_139 $T$ itself_1 is_70 very_17 small_2 with_15 two_0 toilets_0 and_88 only_11 one_19 sink_0 ,_104 girl_0 was_57 staying_0 totally_0 on_21 way_2 hanging_0 out_4 paper_0 towels_0 from_4 di_2 ##sp_0 ##ense_0 ##r_0 ._188 
+bathroom_2 
+-1
+this_26 $T$ rocks_0 !_23 
+place_25 
+1
+the_140 $T$ is_71 aspiring_0 ,_105 and_89 decor_2 fest_0 ##ive_3 amazing_8 ._189 
+atmosphere_8 
+1
+the_141 atmosphere_9 is_72 aspiring_1 ,_106 and_90 $T$ fest_1 ##ive_4 amazing_9 ._190 
+decor_3 
+1
+the_142 catering_0 is_73 out_5 of_44 this_27 world_0 ,_107 and_91 $T$ rocks_1 my_14 !_24 
+raoul_0 ##s_16 chicken_0 vegetable_0 soup_2 
+1
+the_143 $T$ is_74 out_6 of_45 this_28 world_1 ,_108 and_92 raoul_1 ##s_17 chicken_1 vegetable_1 soup_3 rocks_2 my_15 !_25 
+catering_1 
+1
+$T$ are_16 sub_2 ##er_4 ##b_0 ,_109 and_93 i_64 feel_4 like_2 am_9 in_26 a_56 third_0 world_2 country_0 when_10 walk_0 the_144 door_0 ._191 
+drinks_3 
+1
+to_50 start_0 off_1 ,_110 approximately_0 8_1 -_27 10_3 oz_0 of_46 $T$ will_8 cost_0 you_26 $_7 3_0 ._192 
+orange_0 juice_0 
+-1
+they_10 serve_5 it_34 in_27 a_57 tall_0 ,_111 skinny_0 hour_2 -_28 glass_2 shaped_0 to_51 disguise_0 the_145 fact_0 that_20 you_27 getting_2 small_3 $T$ at_18 price_9 of_47 half_0 gallon_0 supermarket_0 ._193 
+juice_1 
+-1
+they_11 serve_6 it_35 in_28 a_58 tall_1 ,_112 skinny_1 hour_3 -_29 glass_3 shaped_1 to_52 disguise_1 the_146 fact_1 that_21 you_28 getting_3 small_4 $T$ at_19 price_10 of_48 half_1 gallon_1 supermarket_1 ._194 
+juice_2 
+-1
+on_22 my_16 meal_5 i_65 had_14 to_53 send_0 back_8 $T$ for_48 a_59 simple_0 request_1 of_49 breaking_0 the_147 yo_6 ##kes_0 before_2 cooking_0 ,_113 and_94 would_8 have_16 them_3 again_3 if_7 n_28 '_58 t_32 rejected_0 all_6 together_0 ._195 
+eggs_5 
+-1
+on_23 my_17 $T$ i_66 had_15 to_54 send_1 back_9 eggs_6 for_49 a_60 simple_1 request_2 of_50 breaking_1 the_148 yo_7 ##kes_1 before_3 cooking_1 ,_114 and_95 would_9 have_17 them_4 again_4 if_8 n_29 '_59 t_33 rejected_1 all_7 together_1 ._196 
+meal_6 
+-1
+i_67 rejected_2 it_36 because_5 in_29 the_149 process_0 of_51 attempting_0 to_55 fix_0 eggs_7 they_12 broke_0 something_3 else_2 $T$ and_96 was_58 too_3 frustrated_0 continue_0 ._197 
+dish_0 
+-1
+to_56 their_12 credit_0 they_13 removed_0 the_150 dish_1 from_5 check_4 ;_2 but_32 no_6 $T$ stopped_0 by_5 ask_0 what_4 problem_2 was_59 ._198 
+manager_3 
+-1
+in_30 the_151 end_0 our_13 check_5 came_2 to_57 $_8 27_0 for_50 4_0 small_5 $T$ ,_115 a_61 breakfast_1 burr_0 ##ito_0 an_8 orange_1 juice_3 and_97 iced_0 tea_2 (_5 i_68 had_16 water_1 )_5 ._199 
+pancakes_5 
+-1
+in_31 the_152 end_1 our_14 check_6 came_3 to_58 $_9 27_1 for_51 4_1 small_6 $T$ ,_116 a_62 breakfast_2 burr_1 ##ito_1 an_9 orange_2 juice_4 and_98 iced_1 tea_3 (_6 i_69 had_17 water_2 )_6 ._200 
+pancakes_6 
+-1
+in_32 the_153 end_2 our_15 check_7 came_4 to_59 $_10 27_2 for_52 4_2 small_7 pancakes_7 ,_117 a_63 $T$ an_10 orange_3 juice_5 and_99 iced_2 tea_4 (_7 i_70 had_18 water_3 )_7 ._201 
+breakfast_3 burr_2 ##ito_2 
+-1
+in_33 the_154 end_3 our_16 check_8 came_5 to_60 $_11 27_3 for_53 4_3 small_8 pancakes_8 ,_118 a_64 breakfast_4 burr_3 ##ito_3 an_11 $T$ and_100 iced_3 tea_5 (_8 i_71 had_19 water_4 )_8 ._202 
+orange_4 juice_6 
+-1
+in_34 the_155 end_4 our_17 check_9 came_6 to_61 $_12 27_4 for_54 4_4 small_9 pancakes_9 ,_119 a_65 breakfast_5 burr_4 ##ito_4 an_12 orange_5 juice_7 and_101 $T$ (_9 i_72 had_20 water_5 )_9 ._203 
+iced_4 tea_6 
+-1
+i_73 am_10 exceeding_0 ##ly_0 pleased_0 to_62 report_0 that_22 my_18 dinner_5 at_20 $T$ last_0 friday_0 completely_2 exceeded_0 expectations_0 ._204 
+ray_2 '_60 s_21 boat_1 ##house_0 
+1
+ray_3 '_61 s_22 is_75 something_4 of_52 a_66 seattle_2 institution_0 ,_120 but_33 given_3 its_3 gorgeous_0 $T$ i_74 had_21 suspected_0 that_23 the_156 accolades_0 were_6 more_3 due_0 to_63 scenery_0 than_5 food_40 and_102 service_29 ._205 
+sound_2 views_0 
+1
+to_64 start_1 things_0 off_2 ,_121 our_18 lovely_1 server_2 $T$ was_60 quickly_1 on_24 hand_2 take_2 my_19 drink_1 order_6 ._206 
+brooke_0 
+1
+i_75 had_22 a_67 taste_5 of_53 all_8 three_2 items_1 on_25 her_0 $T$ ,_122 and_103 they_14 were_7 superb_1 ._207 
+plate_5 
+1
+our_19 $T$ continued_0 to_65 be_17 at_21 ##ten_1 ##tive_1 throughout_0 the_157 night_4 ,_123 but_34 i_76 did_2 remain_0 puzzled_0 by_6 one_20 issue_0 :_0 who_0 thinks_0 that_24 ray_4 '_62 s_23 is_76 an_13 appropriate_0 place_26 take_3 young_3 children_0 for_55 dinner_6 ?_5 
+server_3 
+1
+our_20 server_4 continued_1 to_66 be_18 at_22 ##ten_2 ##tive_2 throughout_1 the_158 night_5 ,_124 but_35 i_77 did_3 remain_1 puzzled_1 by_7 one_21 issue_1 :_1 who_1 thinks_1 that_25 $T$ is_77 an_14 appropriate_1 place_27 take_4 young_4 children_1 for_56 dinner_7 ?_6 
+ray_5 '_63 s_24 
+0
+all_9 considered_0 ,_125 i_78 have_18 to_67 say_2 that_26 $T$ is_78 des_0 ##erving_0 of_54 its_4 title_0 as_8 a_68 seattle_3 institution_1 ._208 
+ray_6 '_64 s_25 boat_2 ##house_1 
+1
