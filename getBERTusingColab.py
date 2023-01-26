@@ -6,12 +6,16 @@ Code partially written by Andreas Poyiatzis:
 https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
 using BERT as written by Google Research: https://github.com/google-research/bert
 '''
+
+%tensorflow_version 1.x
+!pip install numpy==1.19.5
+
+
 '''
-!rm - rf
-bert
-!git
-clone
-https: // github.com / google - research / bert
+!rm -rf bert
+!git clone https://github.com/google-research/bert
+
+
 
 import sys
 
@@ -31,13 +35,14 @@ import numpy as np
 import tensorflow as tf
 
 import modeling
-import tokenization
+from bert import tokenization
 
 assert 'COLAB_TPU_ADDR' in os.environ, 'ERROR: Not connected to a TPU runtime; please see the first cell in this notebook for instructions!'
 TPU_ADDRESS = 'grpc://' + os.environ['COLAB_TPU_ADDR']
 print('TPU address is', TPU_ADDRESS)
 
 from google.colab import files
+from google.colab import auth
 
 auth.authenticate_user()
 with tf.Session(TPU_ADDRESS) as session:
@@ -45,9 +50,9 @@ with tf.Session(TPU_ADDRESS) as session:
     pprint.pprint(session.list_devices())
 
     # Upload credentials to TPU.
-    with open('/content/adc.json', 'r') as f:
-        auth_info = json.load(f)
-    tf.contrib.cloud.configure_gcs(session, credentials=auth_info)
+    #with open('/content/adc.json', 'r') as f:
+     #   auth_info = json.load(f)
+    #tf.contrib.cloud.configure_gcs(session, credentials=auth_info)
     # Now credentials are set for all future sessions on this TPU.
 # Available pretrained model checkpoints:
 #   uncased_L-12_H-768_A-12: uncased BERT base model
@@ -56,8 +61,7 @@ with tf.Session(TPU_ADDRESS) as session:
 BERT_MODEL = 'uncased_L-12_H-768_A-12'  # @param {type:"string"}
 BERT_PRETRAINED_DIR = 'gs://cloud-tpu-checkpoints/bert/' + BERT_MODEL
 print('***** BERT pretrained directory: {} *****'.format(BERT_PRETRAINED_DIR))
-!gsutil
-ls $BERT_PRETRAINED_DIR
+!gsutil ls $BERT_PRETRAINED_DIR
 LAYERS = [-1, -2, -3, -4]
 NUM_TPU_CORES = 8
 MAX_SEQ_LENGTH = 87
@@ -65,7 +69,7 @@ BERT_CONFIG = BERT_PRETRAINED_DIR + '/bert_config.json'
 CHKPT_DIR = BERT_PRETRAINED_DIR + '/bert_model.ckpt'
 VOCAB_FILE = BERT_PRETRAINED_DIR + '/vocab.txt'
 INIT_CHECKPOINT = BERT_PRETRAINED_DIR + '/bert_model.ckpt'
-BATCH_SIZE = 128
+BATCH_SIZE = 64
 
 
 class InputExample(object):
@@ -364,8 +368,8 @@ upload = files.upload()  # raw2016forBERT
 
 # When it takes too long, data can be split in multiple subfiles as in- and output, by changing line 343,344,368
 lines = open('raw_data2016.txt', errors='replace').readlines()
-with open('BERT_base.txt', 'w') as f:
-    for i in range(0 * 3, 2530 * 3, 3):  # len(lines)
+with open('BERT_og_400till700.txt', 'w') as f:
+    for i in range(400 * 3, 700 * 3, 3):  # len(lines)
         print("sentence: " + str(i / 3) + " out of " + str(len(lines) / 3) + " in " + "raw_data;")
         target = lines[i + 1].lower().split()
         words = lines[i].lower().split()
@@ -388,5 +392,5 @@ with open('BERT_base.txt', 'w') as f:
             for v in value:
                 f.write('%s ' % v)
 
-files.download('BERT_base.txt')
+files.download('BERT_og_400till700.txt')
 '''
