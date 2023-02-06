@@ -18,8 +18,10 @@ class Augmentation():
                         'random deletion': 0,
                         'backtranslation': 0,
                         }
+        '''
         self.translate_client = translate.Client()
         self.translator = Translator()
+        '''
         if need_mixup:
             self.word_dict, self.w2v = load_w2v(FLAGS.embedding_path, FLAGS.embedding_dim)
             self.start = len(self.w2v)
